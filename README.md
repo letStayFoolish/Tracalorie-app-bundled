@@ -13,7 +13,7 @@ This is a simple calorie counter app built with vanilla JavaScript. It tracks yo
 ## Technologies Used
 
 * _HTML 5_
-* _CSS_
+* _Bootstrap_
 * _JS / OOP_
 * _Webpack_
 
